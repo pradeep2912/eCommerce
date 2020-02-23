@@ -1,0 +1,11 @@
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Services.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Services.pdb
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Contracts.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Model.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Model.pdb
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\obj\Debug\eCommerce.Services.csprojAssemblyReference.cache
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\obj\Debug\eCommerce.Services.csproj.CoreCompileInputs.cache
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\obj\Debug\eCommerce.Services.csproj.CopyComplete
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\obj\Debug\eCommerce.Services.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Services\obj\Debug\eCommerce.Services.pdb

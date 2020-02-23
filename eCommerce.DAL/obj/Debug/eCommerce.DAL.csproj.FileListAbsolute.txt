@@ -1,0 +1,16 @@
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll.config
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.pdb
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.pdb
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.xml
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csprojAssemblyReference.cache
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csproj.CopyComplete
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.pdb

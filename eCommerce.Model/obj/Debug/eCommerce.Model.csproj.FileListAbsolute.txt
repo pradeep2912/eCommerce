@@ -1,0 +1,6 @@
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojAssemblyReference.cache
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+C:\Users\pradeep\source\repos\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
